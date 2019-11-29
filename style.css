@@ -1,0 +1,24 @@
+img {
+width: 30%; /*this takes total of 90% of the screem*/
+/* fthis will push everything to the left without living any margin in between
+                the image. */
+float: left;
+
+/* image take 90% of the image so the rest is divided betwen the image */
+margin: 1.66%;
+
+}
+
+p {
+    font-size: 30px;
+    font-family: Raleway;
+    margin-left: 1.66%;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 96.64%;
+    padding-bottom: 20px;
+    margin-right: 1.66%;
+    
+    
+}
